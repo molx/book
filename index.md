@@ -76,7 +76,6 @@ title: PH525x series - Biomedical Data Science
 - [Introduction to Machine Learning](pages/machine_learning.html)
 - [Crossvalidation](pages/crossvalidation.html)
 
-
 ---
 
 - [Confounding](pages/confounding.html)
