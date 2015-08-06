@@ -12,11 +12,11 @@ layout: page
 
 In the previous section we motivated the use of matrix algebra with this system of equations:
 
-$$\begin{eqnarray}
-a + b + c &=& 6\\
-3a - 2b + c &=& 2\\
-2a + b  - c &=& 1
-\end{eqnarray}
+$$\begin{aligned}
+a + b + c &= 6\\
+3a - 2b + c &= 2\\
+2a + b  - c &= 1
+\end{aligned}
 $$
 
 We described how this system can be rewritten and solved using matrix algebra:
