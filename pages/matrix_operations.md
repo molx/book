@@ -60,7 +60,7 @@ Having described matrix notation, here we will explain the operation we perform 
 
 # Multiplying by a scalar
 
-We start with one of the simplest operation: scalar multiplication. If $$a$$ is scalar and $$\mathbf{X}$$ is a matrix then:
+We start with one of the simplest operation: scalar multiplication. If $a$ is scalar and $\mathbf{X}$ is a matrix then:
 
 $$
 a \mathbf{X} = 
